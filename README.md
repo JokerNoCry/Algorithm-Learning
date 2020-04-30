@@ -6,7 +6,7 @@
 
 # Contents
 
-一、基础算法  
+一、[基础算法](https://github.com/JokerNoCry/Algorithm-Learning/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95)  
     1.[模拟算法](http://www.baidu.com)   
     2.枚举算法  
     3.递归算法  
